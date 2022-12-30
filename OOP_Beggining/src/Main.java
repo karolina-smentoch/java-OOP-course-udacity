@@ -34,5 +34,6 @@ class Main {
             System.out.println("Your result " + grade + " is quite nice but I'm sure you can do it better next time");
         }
     }
+
 }
 
