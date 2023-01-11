@@ -31,7 +31,7 @@ public class GamePreparation {
     public static void welcomeDescription (){
         System.out.println("Welcome in game 'Guess The Movie'!");
         System.out.println("Your task is to guess the title of the movie hidden behind the underscores by guessing one letter at a time.");
-        System.out.println("So even if you write few letters only the first one will be take into account.");
+        System.out.println("So even if you write few letters only the first one will be taken into account.");
         System.out.println("If you make 10 mistakes - game over.");
         System.out.println("Good luck and may the force be with you ;)");
         System.out.println("*************************************************************************************************************");

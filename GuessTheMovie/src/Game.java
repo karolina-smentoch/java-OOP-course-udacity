@@ -41,7 +41,7 @@ public class Game {
     private static char getTheLetterFromTheUser() {
         System.out.println("Give your letter:");
         Scanner scanner = new Scanner(System.in);
-        char givenLetter = scanner.next().charAt(0);
+        char givenLetter = scanner.next().toLowerCase().charAt(0);
         return givenLetter;
     }
 
